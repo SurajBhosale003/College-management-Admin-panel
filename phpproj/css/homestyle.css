@@ -1,0 +1,9 @@
+.head{
+	width: 100%;
+	height: 50px;
+	background-color: green;
+}
+.head title{
+	color: yellow;
+	float: right;
+}
