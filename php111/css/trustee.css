@@ -1,0 +1,35 @@
+.bodyhead{
+	width: 100%;
+	background-color: violet;
+}
+.bodyhead h1{
+	color: #10498E;
+	/*margin-left: 430px;*/
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  /*background-color: transparent;*/
+  padding: 10px;
+}
+.grid-item {
+  /*background-color: whitesmoke;*/
+  border: 3px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: justify;
+  margin: 5px;
+}
+
+
+
+
+
+
+
+
+.tab{
+  padding-bottom: 50px;
+}
+
